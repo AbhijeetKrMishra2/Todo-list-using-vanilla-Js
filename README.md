@@ -29,11 +29,13 @@ To delete all tasks, click the delete all button (trash icon) at the top right c
 
 ![image](https://github.com/AbhijeetKrMishra2/Todo-list-with-vanilla-JS---Coding-Ninjas/assets/139151966/59976b42-33f6-47cb-948b-1a3f3a452a37)
 
+![image](https://github.com/AbhijeetKrMishra2/Todo-list-with-vanilla-JS---Coding-Ninjas/assets/139151966/5a7eb3bf-f948-4577-85fe-37dc7a856fce)
+
 ![image](https://github.com/AbhijeetKrMishra2/Todo-list-with-vanilla-JS---Coding-Ninjas/assets/139151966/8ae63b14-d033-43e1-8c5b-2b72612963fd)
 
 ![image](https://github.com/AbhijeetKrMishra2/Todo-list-with-vanilla-JS---Coding-Ninjas/assets/139151966/9d534882-481b-4242-b780-da2e229d25d5)
 
-![image](https://github.com/AbhijeetKrMishra2/Todo-list-with-vanilla-JS---Coding-Ninjas/assets/139151966/5a7eb3bf-f948-4577-85fe-37dc7a856fce)
+
 
 
 
