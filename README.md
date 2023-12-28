@@ -36,6 +36,6 @@ To delete all tasks, click the delete all button (trash icon) at the top right c
 ![image](https://github.com/AbhijeetKrMishra2/Todo-list-with-vanilla-JS---Coding-Ninjas/assets/139151966/9d534882-481b-4242-b780-da2e229d25d5)
 
 # Hosted-Website Link :
-https://abhijeetkrmishra2.github.io/Todo-list-with-vanilla-JS---Coding-Ninjas/
+https://candid-cocada-ec1b5f.netlify.app/
 
 
